@@ -15,5 +15,4 @@ If you encounter any problem or find a bug during using, you are very welcome to
 	  volume={112},
 	  pages={108624},
 	  year={2026},
-	  publisher={Elsevier}
-  }
+	  publisher={Elsevier}}
