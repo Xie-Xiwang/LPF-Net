@@ -1337,11 +1337,4 @@ class GFFodule(nn.Module):
 
 
 
-if __name__ == "__main__":
-    # #call Transception_res
-
-    model = CNN_Swin().cuda()
-    tmp_0 = model(torch.rand(1, 3, 224, 224).cuda())
-    print(tmp_0[0].shape)
-
 
